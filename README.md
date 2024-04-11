@@ -1,6 +1,5 @@
 # 🌱
 <div>
-  <img alt="soonduck-dreams' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=soonduck-dreams&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
   <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soonduckim24" />
 </div>
 
